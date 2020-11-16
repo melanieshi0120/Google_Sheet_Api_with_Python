@@ -23,6 +23,7 @@ For obtain your own creds.json, please [watch this video](https://www.youtube.co
 -  Upload this new_data to a specific sheet of the Google Sheet file
  
 For more code details please visit the jupyter notebook above.
+ "Google_Sheet_API_with_Python.ipynb" contains all the steps you need to do for data extraction and uploadation. For future usage you can just simply use the functions from "GS_and_Python.ipynb".  
 ## Conclusion
 For me, it is easier to visualize the data using python because I can flexibly manipulate the data with Python. If you are not very familiar with some functions of Google Sheet, you can just manipulate the desired data using Python, then upload those datasets to the same google sheet file in different sheets. The reason why I want to do this because some companies require you to create a dashboard and sometimes it is very time-consuming to create some pivot tables or any tables using query/sumifs or other functions in Google Sheet. So we can just directly use the datasets that we uploaded to easily create a dashboard with Tableau or Google Data Studio.
 ![images/Dashboard.png](images/Dashboard.png)# Google_Sheet_Api_with_Python
