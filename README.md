@@ -9,9 +9,9 @@ There are several steps to connect Google Sheet and Python.
 First of all, you need an account to log in Google developer console and create a new project. You can name it as anything you want. Then you need to click the "Library" on the left side and search "Google Drive API" then select it and enable it. After that, we need to go back to click the "Library" again and search "Google Sheet API". After you enable it you need to click "Credential" on the left side to create credentials for a Web Server to access Application Data then name the service account and grant it a Project Role of Editor. Then we can download the JSON file to the desired location and rename it as "creds.json".
 
 Don't worry. For the first time, you may feel very confused. Here is the video tutorial to all the steps in the pre-work part.
-![Watch the video]( https://www.youtube.com/watch?v=cnPlKLEGR7E&t=428s)
+[Watch the video]( https://www.youtube.com/watch?v=cnPlKLEGR7E&t=428s)
 
-## Python Code Content
+## Python Code 
 - Install/import libraries
 - Function for obtaining client_email
   There is one information from the "creds.json" that is very important - client_email. For example, we have a google sheet which contains all the data that we need to analyze, and if we want to share it, we normally use email to share the Google sheet file. Here we can just simply copy can paste your client_email, and share your Google Sheet with this email.
