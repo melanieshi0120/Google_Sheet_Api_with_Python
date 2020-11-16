@@ -10,8 +10,7 @@ First of all, you need an account to log in Google developer console and create 
 
 Don't worry. For the first time, you may feel very confused. Here is the video tutorial to all the steps in the pre-work part.
 
-
-[![Watch the video](https://img.youtube.com/vi/cnPlKLEGR7E&t=428s/hqdefault.jpg)](https://www.youtube.com/watch?v=cnPlKLEGR7E&t=428s)
+For obtain your own creds.json, please [Watch this video](https://www.youtube.com/watch?v=cnPlKLEGR7E&t=428s)
 
 ## Python Code 
 - Install/import libraries
